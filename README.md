@@ -7,6 +7,8 @@
 
 
 1. git clone을 하거나 코드를 복사
+  -> git clone (깃 주소)
+  
 2. 실행 방법
   
 a. gcc sockat.c를 입력
