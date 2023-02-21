@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# computing_network
-=======
+
 # computing_network
 
 한양대학교 erica 컴퓨터 네트워크 수업에서 자료입니다.
